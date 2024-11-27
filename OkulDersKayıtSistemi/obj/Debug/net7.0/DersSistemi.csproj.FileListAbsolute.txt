@@ -1,0 +1,43 @@
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/DersSistemi.csproj.AssemblyReference.cache
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/DersSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/DersSistemi.AssemblyInfoInputs.cache
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/DersSistemi.AssemblyInfo.cs
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/DersSistemi.csproj.CoreCompileInputs.cache
+/home/furkan/Desktop/DersSistemi/bin/Debug/net7.0/DersSistemi
+/home/furkan/Desktop/DersSistemi/bin/Debug/net7.0/DersSistemi.deps.json
+/home/furkan/Desktop/DersSistemi/bin/Debug/net7.0/DersSistemi.runtimeconfig.json
+/home/furkan/Desktop/DersSistemi/bin/Debug/net7.0/DersSistemi.dll
+/home/furkan/Desktop/DersSistemi/bin/Debug/net7.0/DersSistemi.pdb
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/DersSistemi.dll
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/refint/DersSistemi.dll
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/DersSistemi.pdb
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/DersSistemi.genruntimeconfig.cache
+/home/furkan/Desktop/DersSistemi/obj/Debug/net7.0/ref/DersSistemi.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\obj\Debug\net7.0\DersSistemi.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\obj\Debug\net7.0\refint\DersSistemi.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\obj\Debug\net7.0\DersSistemi.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\bin\Debug\net7.0\DersSistemi.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\bin\Debug\net7.0\DersSistemi.deps.json
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\bin\Debug\net7.0\DersSistemi.runtimeconfig.json
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\bin\Debug\net7.0\DersSistemi.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\bin\Debug\net7.0\DersSistemi.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\obj\Debug\net7.0\DersSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\obj\Debug\net7.0\DersSistemi.AssemblyInfoInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\obj\Debug\net7.0\DersSistemi.AssemblyInfo.cs
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\obj\Debug\net7.0\DersSistemi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\obj\Debug\net7.0\DersSistemi.genruntimeconfig.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\VİZE KODLARI\SchoolSystem-main\DersSistemi\obj\Debug\net7.0\ref\DersSistemi.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\bin\Debug\net7.0\DersSistemi.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\bin\Debug\net7.0\DersSistemi.deps.json
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\bin\Debug\net7.0\DersSistemi.runtimeconfig.json
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\bin\Debug\net7.0\DersSistemi.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\bin\Debug\net7.0\DersSistemi.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\obj\Debug\net7.0\DersSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\obj\Debug\net7.0\DersSistemi.AssemblyInfoInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\obj\Debug\net7.0\DersSistemi.AssemblyInfo.cs
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\obj\Debug\net7.0\DersSistemi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\obj\Debug\net7.0\DersSistemi.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\obj\Debug\net7.0\refint\DersSistemi.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\obj\Debug\net7.0\DersSistemi.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\obj\Debug\net7.0\DersSistemi.genruntimeconfig.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\OkulDerskayıtSistemi\DersSistemi\obj\Debug\net7.0\ref\DersSistemi.dll
