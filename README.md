@@ -1,1 +1,2 @@
-# G-rsel-Programlama2-Vize
+Okul Kayıt sistemi 
+öğrencileri kayıt eden öğretim üyesi ders seçimlerini yapar
